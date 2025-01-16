@@ -48,6 +48,7 @@
 ## step 0.3:Asking the user for the starting step:
 This part of the script greets the user and explains that they can start from any step between 1 and 7. It then calls the `display_steps` function to show the available steps. After that, it prompts the user to enter a number corresponding to the step they want to begin from.
 * Explanation: The script greets the user and provides instructions on which step they can start from. Then, the user is asked to input a number representing the step they want to start at.
+![Screenshot 2025-01-16 155626](https://github.com/user-attachments/assets/7f382f9c-1971-4a09-9e5d-2f8f22b1ccc5)
 
 
 ## step 0.4:Validating user input:
